@@ -40,3 +40,6 @@ To make scholarship application preparation easier, faster, and more accessible 
 
 ---
 **Developed as an AI/ML Project.**
+## 📸 Project Preview
+
+![FormSaathi AI Screenshot](FormSaathi_Screenshot.png)
